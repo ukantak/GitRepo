@@ -1,3 +1,5 @@
 test for staged file
 
 test for git commit
+
+24 mins + 4 mins = 28 mins 
