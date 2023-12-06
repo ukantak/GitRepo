@@ -1,1 +1,3 @@
 test for staged file
+
+test for git commit
