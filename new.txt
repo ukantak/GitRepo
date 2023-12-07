@@ -1,8 +1,0 @@
-hello everyone!
-lets start with git
-
-modified to check only staging
-
-check for branching
-
-test reset
